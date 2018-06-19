@@ -1,0 +1,18 @@
+//Here begins the JS Stalker
+var name = prompt("write your name", " ")
+document.write("Welcome ", name)
+var age = prompt("write your age", " ")
+document.write(", ", age)
+//Here ends JS Stalker
+
+//Here begins Age Counter
+var age = prompt("How old are you?", " ")
+document.write("You have been alive for ", age*365, " days")
+//Here ends Age counter
+
+//Here begins Annoy-o-matic
+for(var answer=""; var answer="No"||"no"||"NO";)
+	do {
+    code block to be executed
+}
+while (condition);

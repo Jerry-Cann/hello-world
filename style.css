@@ -1,0 +1,57 @@
+#main 
+{
+	background: url(https://www.nlc.org/sites/default/files/2016-12/Big%20Ideas.jpg);
+	text-align: center;
+	padding: 400px;
+	background-size: cover; 
+}
+
+#main h1
+{
+	font-size: 50px;
+	color: white;
+	text-shadow: 5px 5px 5px black;
+	background: rgba(0,0,0,0.3);
+	display: inline-block;
+	padding: 10px;
+}
+
+#main a
+{
+	padding: 10px 20px;
+    /*border: 3px solid black;*/
+	text-decoration: none;
+	color: black;
+	box-shadow: 5px 5px 5px black
+}
+
+#schedule
+{
+	background: url(https://www.lifeofpix.com/wp-content/uploads/2015/04/Life-of-Pix-free-stock-old-books-wooden-shelves-leeroy-1600x1067.jpg);
+	text-align: center;
+	padding: 400px;
+	background-size: cover; 
+}
+
+.first, .last
+{
+	background: rgba(255, 255, 153, 0.7);
+}
+
+#merch
+{
+	padding: 10px;
+	display: flex;
+}
+
+.item
+{
+	width: 25%;
+	border: 1px solid black;
+	text-align: center;
+}
+
+.item img 
+{
+	width: 100%;
+}
